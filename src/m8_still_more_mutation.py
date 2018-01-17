@@ -135,7 +135,7 @@ def MUTATE_delete_negatives(numbers):
     # HINT: This problem is MUCH harder than it would appear,
     #       for various quite-subtle reasons.
     #       Take a stab at this problem,
-    #       then ask for help as needed.
+    #       then ask for help as needed. do this from back to front
 
 
 # ----------------------------------------------------------------------
